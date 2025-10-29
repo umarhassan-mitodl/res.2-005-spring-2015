@@ -1,0 +1,79 @@
+leftnav:
+- identifier: 29231ee4-58ee-f9e6-f7e1-2bbfdf131b0f
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: ee7a411e-5754-64ae-8fb6-704e38f60bcf
+  name: Workshop Schedule
+  pageRef: /pages/syllabus/workshop-schedule
+  parent: 29231ee4-58ee-f9e6-f7e1-2bbfdf131b0f
+  weight: 20
+- identifier: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: eea41b9f-86c8-705f-e526-3a7dbf353abb
+  name: Inspiration for the Workshop
+  pageRef: /pages/instructor-insights/inspiration-for-the-workshop
+  parent: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  weight: 40
+- identifier: 1bfb99c6-08a6-fb3b-5087-201cd73059c9
+  name: Framing Engineering as Problem Solving
+  pageRef: /pages/instructor-insights/framing-engineering-as-problem-solving
+  parent: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  weight: 50
+- identifier: 584c2218-ca0f-3ca2-a580-1dd42e0019e1
+  name: Supporting Girls with Different Levels of Coding Experience
+  pageRef: /pages/instructor-insights/supporting-girls-with-different-levels-of-coding-experience
+  parent: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  weight: 60
+- identifier: 1f493c87-0fc8-2e0e-70a8-7df3f3a9f17a
+  name: Preparing Volunteers
+  pageRef: /pages/instructor-insights/preparing-volunteers
+  parent: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  weight: 70
+- identifier: 2da070a8-5dad-718a-d6b7-2e08bffc76ab
+  name: Advice for Educators
+  pageRef: /pages/instructor-insights/advice-for-educators
+  parent: 93633c3e-763e-0e99-1be7-a7388bafdbb7
+  weight: 80
+- identifier: b5f263d4-ba85-f452-d269-22db237001f2
+  name: Introduction to Engineering & its Applications
+  pageRef: /pages/introduction-to-engineering-its-applications
+  weight: 90
+- identifier: 9d919b61-decd-f95f-4108-ded3bef6c4dc
+  name: Manufacturing & Mechanical Design
+  pageRef: /pages/manufacturing-mechanical-design/
+  weight: 100
+- identifier: edea5924-f3ed-6730-a8e8-b5fd50ce3eb2
+  name: CAD and 3D Print Bracelet
+  pageRef: /pages/manufacturing-mechanical-design/cad-and-3d-print-bracelet
+  parent: 9d919b61-decd-f95f-4108-ded3bef6c4dc
+  weight: 110
+- identifier: 92d5b5f8-94f6-44a9-c23b-844e1426fda0
+  name: CAD and Lasercut Purse
+  pageRef: /pages/manufacturing-mechanical-design/cad-and-lasercut-purse
+  parent: 9d919b61-decd-f95f-4108-ded3bef6c4dc
+  weight: 120
+- identifier: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
+  name: Circuits and Code
+  pageRef: /pages/circuits-and-code/
+  weight: 130
+- identifier: b0e2f533-4fbb-3242-82d1-68267e602980
+  name: Build and Test a Wearable Circuit
+  pageRef: /pages/circuits-and-code/build-and-test-a-wearable-circuit
+  parent: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
+  weight: 140
+- identifier: 5f06dcfb-6d8d-0d6f-d266-41a00bf57aaa
+  name: Computer Programming
+  pageRef: /pages/circuits-and-code/computer-programming
+  parent: 702bfcbb-df40-1ecd-ff94-3eaa6807cb80
+  weight: 150
+- identifier: 0fc487ac-b653-029f-8b26-7f919501013d
+  name: Host Your Own Workshop
+  pageRef: /pages/host-your-own-workshop
+  weight: 160
+- identifier: 31be0b31-a028-1436-f17f-4178e2dafd4c
+  name: Image Gallery
+  pageRef: /pages/image-gallery
+  weight: 170
